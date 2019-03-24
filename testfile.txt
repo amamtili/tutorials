@@ -1,4 +1,8 @@
 this is just a test file
+<<<<<<< HEAD
+=======
+add one this **line I need remove** line
+>>>>>>> 39024a1a43957c132fcfcee6ff4295913fb77f2f
 add one more change.my kids
 
 new line added in this time 
