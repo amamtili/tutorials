@@ -9,6 +9,3 @@ removed .netrc to try
 add in from git bash with ssh key cloned
 
 add in from ubuntu after ssh key
-
-add in from git bash without ssh key
-
