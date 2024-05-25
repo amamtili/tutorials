@@ -1,7 +1,6 @@
+levea last line only
 add in new file to try
 add in one more line
-
-ossssss
 
 add a new line after generating key
 removed .netrc to try
@@ -10,4 +9,3 @@ add in from ubuntu after ssh key
 add in a registration
 
 changed in github for pull request conflict
-
