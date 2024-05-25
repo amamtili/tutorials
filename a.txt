@@ -7,3 +7,6 @@ add a new line after generating key
 removed .netrc to try
 
 add in from ubuntu after ssh key
+add in a registration
+
+
